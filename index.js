@@ -11,7 +11,7 @@
 
 
 
-$("document").keydown(function(event) {
+$(document).keydown(function(event) {
 
   makeSound(event.key);
 
